@@ -9,7 +9,6 @@ O portfólio também funciona como um espaço para apresentar meu trabalho com f
 - HTML
 - CSS
 - JavaScript
-- GitHub API
 
 ## Estrutura
 
@@ -20,8 +19,6 @@ O portfólio também funciona como um espaço para apresentar meu trabalho com f
 ## Como executar
 
 O projeto não precisa de dependências ou processo de build. Basta abrir o arquivo `index.html` no navegador.
-
-Para testar a integração com o GitHub em um ambiente local, é preferível usar um servidor estático simples, como a extensão Live Server do VS Code.
 
 ## Contato
 
